@@ -40,7 +40,3 @@ TARGET_SUPPORTS_BLUR := true
 WITH_GAPPS := true
 TARGET_HAS_UDFPS := true
 EXTRA_UDFPS_ANIMATIONS := true
-
-# MIUI CAM
-
-$(call inherit-product-if-exists, vendor/xiaomi/miuicamera/config.mk)
