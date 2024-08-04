@@ -14,4 +14,4 @@ git clone https://github.com/LineageOS/android_hardware_xiaomi -b lineage-21 har
 git clone https://github.com/LineageOS/android_hardware_sony_timekeep -b lineage-21 hardware/sony/timekeep
 
 # vendor/xiaomi/miuicamera
-git clone https://gitlab.com/userariii/vendor-xiaomi-miuicamera.git vendor/xiaomi/miuicamera
+git clone https://github.com/clarencelol/vendor_xiaomi_miuicamera.git vendor/xiaomi/miuicamera
