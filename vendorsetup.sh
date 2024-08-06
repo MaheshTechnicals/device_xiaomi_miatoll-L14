@@ -1,3 +1,9 @@
+# Remove the existing frameworks/native directory
+rm -rf frameworks/native
+
+# Clone the new repository into the frameworks/native path
+git clone https://github.com/MaheshTechnicals/frameworks_native.git frameworks/native
+
 # device/xiaomi/sm6250-common
 git clone https://github.com/MaheshTechnicals/device_xiaomi_sm6250-common-L14.git -b lineage-21.0 device/xiaomi/sm6250-common
 
