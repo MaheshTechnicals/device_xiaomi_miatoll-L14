@@ -5,7 +5,7 @@ rm -rf frameworks/native
 git clone https://github.com/MaheshTechnicals/frameworks_native.git frameworks/native
 
 # device/xiaomi/sm6250-common
-git clone https://github.com/MaheshTechnicals/device_xiaomi_sm6250-common-L14.git -b lineage-21.0 device/xiaomi/sm6250-common
+git clone https://github.com/MaheshTechnicals/device_xiaomi_sm6250-common-L14.git -b everest device/xiaomi/sm6250-common
 
 # vendor/xiaomi/sm6250-common
 git clone --depth=1 https://github.com/SwapnilVicky/vendor_xiaomi_sm6250-common -b lineage-21.0 vendor/xiaomi/sm6250-common
