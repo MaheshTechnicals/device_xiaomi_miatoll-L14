@@ -23,4 +23,4 @@ git clone https://github.com/LineageOS/android_hardware_sony_timekeep -b lineage
 git clone https://github.com/clarencelol/vendor_xiaomi_miuicamera.git vendor/xiaomi/miuicamera
 
 # vendor/everest/signing
-git clone https://github.com/MaheshTechnicals/vendor_lineage-priv.git -b everest vendor/everest/signing
+git clone https://github.com/MaheshTechnicals/vendor_lineage-priv.git -b everest vendor/lineage/signing
