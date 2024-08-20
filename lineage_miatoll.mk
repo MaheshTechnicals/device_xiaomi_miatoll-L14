@@ -18,7 +18,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 # Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
 
-PRODUCT_NAME := everest_miatoll
+PRODUCT_NAME := lineage_miatoll
 PRODUCT_DEVICE := miatoll
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := SM6250
@@ -38,7 +38,3 @@ BUILD_FINGERPRINT := Redmi/miatoll_global/miatoll:12/RKQ1.211019.001/V14.0.5.0.S
 EVEREST_MAINTAINER := MaheshTechnicals
 TARGET_SUPPORTS_BLUR := true
 WITH_GAPPS := true
-TARGET_HAS_UDFPS := true
-EXTRA_UDFPS_ANIMATIONS := true
-TARGET_INCLUDE_PIXEL_LAUNCHER := false
-TARGET_INCLUDE_LAUNCHER3 := true
